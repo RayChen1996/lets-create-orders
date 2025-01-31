@@ -1,0 +1,17 @@
+
+
+Expo 專案架構
+
+```
+
+├── ...
+├── type  --- 定義型別(包含API與表單)
+│   ├── form
+│   └── api
+├── provider
+│   ├── tankQuery.tsx
+│   └── 
+├── store
+│   ├── useTokenStore.tsx --- token 管理
+
+```
